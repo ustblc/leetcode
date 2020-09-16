@@ -1,0 +1,14 @@
+.idea
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+*/*egg-info
+
+dist
+
+
+venv
+
