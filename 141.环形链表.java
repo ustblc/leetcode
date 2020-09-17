@@ -43,7 +43,7 @@ public class Solution {
         }
         return false;
         */
-        /*method_:骚操作（节点数目范围给定，）
+        /*method_:骚操作（节点数目范围给定）
         int maxStep = 10001;
         int curStep = 0;
         while (head != null) {
